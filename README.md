@@ -28,7 +28,7 @@
 <img width="715" height="441" alt="image" src="https://github.com/user-attachments/assets/33ee22d9-d5ec-4ddd-96a7-e20f97edda83" />
 <p>
 <p>Соглашаемся на замену. Сформированная заявка выводится на экран. Путь к файлу с заявкой изображен в консоли</p>
-<img width="916" height="202" alt="image" src="https://github.com/user-attachments/assets/1639040f-e8f0-450e-a72b-fb5f48b87a72" />
+<img width="915" height="201" alt="image" src="https://github.com/user-attachments/assets/9af95e6a-19ad-4b48-9c02-d5b89c76a658" />
 <p>
 <p>Или отказываемся от замены. Происходит выход из приложения</p>
 <img width="715" height="464" alt="image" src="https://github.com/user-attachments/assets/7ddf01e2-81bc-4298-aedf-9a01f4785f66" />
