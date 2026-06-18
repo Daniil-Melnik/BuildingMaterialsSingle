@@ -10,6 +10,8 @@
 <p>Если пользователь согласен на замену, то оформляется заявка</p></li>
 
 <p><a href="src">код</a></p>
+<p><a href="data/products.json">входные данные</a></p>
+
 <h2>Запуск</h2>
 <p>Windows PS: <code>путь_до_репо\BuildingMaterialsSingle> node .\src\app.js</code></p>
 <p>Linux: <code>путь_до_репо/BuildingMaterialsSingle ~$ node ./src/app.js</code></p>
